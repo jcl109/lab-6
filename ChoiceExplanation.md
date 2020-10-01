@@ -1,0 +1,1 @@
+We went with the MIT license because of how simple and permissible it is. Since our program isn’t very complicated and it’s open to multiple people the MIT license was a good choice. The MIT license is also easy to understand and not overly complicated.
